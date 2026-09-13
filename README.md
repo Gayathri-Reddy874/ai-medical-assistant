@@ -164,7 +164,7 @@ as long as `EMBEDDING_MODEL_ID` matches the model originally used to build it.
 
 ## 👤 Author
 
-**Gayathri** ([@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874))
+**Mallareddygari Gayathri** ([@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874))
 
 ## 📄 License
 
