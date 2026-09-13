@@ -166,6 +166,8 @@ as long as `EMBEDDING_MODEL_ID` matches the model originally used to build it.
 
 **Mallareddygari Gayathri** ([@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874))
 
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — free to use, modify,
