@@ -162,12 +162,6 @@ as long as `EMBEDDING_MODEL_ID` matches the model originally used to build it.
 
 ---
 
-## 🏷️ Keywords
-
-`rag` · `retrieval-augmented-generation` · `aws-bedrock` · `llama3` · `faiss` · `langchain` · `fastapi` · `streamlit` · `medical-ai` · `python`
-
----
-
 ## 👤 Author
 
 **Gayathri** ([@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874))
