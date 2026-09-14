@@ -142,7 +142,7 @@ Then open the Streamlit URL shown in the terminal (usually `http://localhost:850
    say "I don't know" if the answer isn't found in the document.
 
 A sample PDF (`Medical_data.pdf`) and its pre-built FAISS index are already
-included, so you can ask questions immediately without uploading anything first —
+included, so you can ask questions immediately without uploading anything first -
 as long as `EMBEDDING_MODEL_ID` matches the model originally used to build it.
 
 **Try asking:**
