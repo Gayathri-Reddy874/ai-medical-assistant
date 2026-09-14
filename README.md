@@ -123,7 +123,7 @@ cd backend
 python -m uvicorn app.main:app --reload --port 8000
 ```
 
-**Terminal 2 — Frontend (Streamlit):**
+**Terminal 2 - Frontend (Streamlit):**
 ```bash
 cd frontend
 streamlit run app.py
