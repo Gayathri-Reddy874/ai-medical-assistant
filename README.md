@@ -157,7 +157,7 @@ as long as `EMBEDDING_MODEL_ID` matches the model originally used to build it.
 - **Embedding model consistency:** if you switch `EMBEDDING_MODEL_ID` after the
   index was built, dimensions will mismatch. Re-upload a PDF to rebuild the index.
 - **`/ask` takes `query` as a query parameter**, not a JSON body.
-- **This is not a medical device** — answers are only as good as the source
+- **This is not a medical device** - answers are only as good as the source
   PDF and the LLM's summarization of it.
 
 ---
