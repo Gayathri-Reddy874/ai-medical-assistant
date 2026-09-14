@@ -117,7 +117,7 @@ ai-medical-assistant/
 
 Open two terminals from the project root:
 
-**Terminal 1 — Backend (FastAPI):**
+**Terminal 1 - Backend (FastAPI):**
 ```bash
 cd backend
 python -m uvicorn app.main:app --reload --port 8000
