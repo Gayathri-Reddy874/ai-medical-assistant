@@ -172,5 +172,5 @@ as long as `EMBEDDING_MODEL_ID` matches the model originally used to build it.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) — free to use, modify,
+This project is licensed under the [MIT License](LICENSE) - free to use, modify,
 and distribute with attribution.
