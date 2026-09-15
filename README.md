@@ -44,7 +44,7 @@ ai-medical-assistant/
 │   │   ├── routes.py             # /upload and /ask API endpoints
 │   │   ├── document_loader.py    # Loads & splits PDF into chunks (PyPDFLoader)
 │   │   ├── embeddings.py         # AWS Bedrock embedding model wrapper
-│   │   ├── vector_store.py       # FAISS vector store — create/load/query
+│   │   ├── vector_store.py       # FAISS vector store - create/load/query
 │   │   ├── rag_pipeline.py       # Retrieval + prompt building + generation
 │   │   └── llm.py                # AWS Bedrock LLM (Llama 3) wrapper
 │   ├── data/
