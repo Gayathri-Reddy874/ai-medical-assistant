@@ -109,7 +109,7 @@ ai-medical-assistant/
    BEDROCK_MODEL_ID=meta.llama3-8b-instruct-v1:0
    EMBEDDING_MODEL_ID=amazon.titan-embed-text-v1
    ```
-   > ⚠️ Never commit `.env` to version control — it's excluded via `.gitignore`.
+   > ⚠️ Never commit `.env` to version control - it's excluded via `.gitignore`.
 
 ---
 
