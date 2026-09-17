@@ -135,7 +135,7 @@ Then open the Streamlit URL shown in the terminal (usually `http://localhost:850
 
 ## 💬 Usage
 
-1. In the sidebar, upload a PDF and click **Upload & Index** — this re-indexes
+1. In the sidebar, upload a PDF and click **Upload & Index** - this re-indexes
    the vector store using that document.
 2. Type a question in the main panel and click **Ask**.
 3. The assistant answers using only the content of the uploaded PDF, and will
